@@ -76,5 +76,5 @@ emulator -avd my_emulator_arm
 ```
 - And finally, apabila semua berjalan dengan baik, maka emulatornya akan berhasil dijalankan seperti ini
 <figure>
-    <img src="./images/emulator.png" alt="Emulator Android">
+    <img src="./images/emulator.png" alt="Emulator Android" width="300">
 </figure>
