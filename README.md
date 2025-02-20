@@ -75,5 +75,6 @@ avdmanager create avd -n my_emulator_arm -k "system-images;android-33;google_api
 emulator -avd my_emulator_arm
 ```
 - And finally, apabila semua berjalan dengan baik, maka emulatornya akan berhasil dijalankan seperti ini
-
-![Emulator!](/images/emulator.png "Emulator Android")
+<figure>
+    <img src="./images/emulator.png" alt="Emulator Android">
+</figure>
